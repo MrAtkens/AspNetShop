@@ -1,0 +1,8 @@
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.Domain\bin\Debug\netcoreapp3.0\AspNetShop.Domain.deps.json
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.Domain\bin\Debug\netcoreapp3.0\AspNetShop.Domain.dll
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.Domain\bin\Debug\netcoreapp3.0\AspNetShop.Domain.pdb
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.Domain\obj\Debug\netcoreapp3.0\AspNetShop.Domain.csprojAssemblyReference.cache
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.Domain\obj\Debug\netcoreapp3.0\AspNetShop.Domain.AssemblyInfoInputs.cache
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.Domain\obj\Debug\netcoreapp3.0\AspNetShop.Domain.AssemblyInfo.cs
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.Domain\obj\Debug\netcoreapp3.0\AspNetShop.Domain.dll
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.Domain\obj\Debug\netcoreapp3.0\AspNetShop.Domain.pdb

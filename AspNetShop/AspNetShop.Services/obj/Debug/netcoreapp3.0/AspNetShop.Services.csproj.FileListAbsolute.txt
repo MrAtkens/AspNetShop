@@ -1,0 +1,17 @@
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.Services\bin\Debug\netcoreapp3.0\AspNetShop.DataAccess.dll
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.Services\bin\Debug\netcoreapp3.0\AspNetShop.Domain.dll
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.Services\bin\Debug\netcoreapp3.0\AspNetShop.DTO.dll
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.Services\bin\Debug\netcoreapp3.0\AspNetShop.Options.dll
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.Services\obj\Debug\netcoreapp3.0\AspNetShop.Services.csprojAssemblyReference.cache
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.Services\obj\Debug\netcoreapp3.0\AspNetShop.Services.AssemblyInfoInputs.cache
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.Services\obj\Debug\netcoreapp3.0\AspNetShop.Services.AssemblyInfo.cs
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.Services\bin\Debug\netcoreapp3.0\AspNetShop.Services.deps.json
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.Services\bin\Debug\netcoreapp3.0\AspNetShop.Services.dll
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.Services\bin\Debug\netcoreapp3.0\AspNetShop.Services.pdb
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.Services\bin\Debug\netcoreapp3.0\AspNetShop.DataAccess.pdb
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.Services\bin\Debug\netcoreapp3.0\AspNetShop.Domain.pdb
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.Services\bin\Debug\netcoreapp3.0\AspNetShop.DTO.pdb
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.Services\bin\Debug\netcoreapp3.0\AspNetShop.Options.pdb
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.Services\obj\Debug\netcoreapp3.0\AspNetShop.Services.csproj.CopyComplete
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.Services\obj\Debug\netcoreapp3.0\AspNetShop.Services.dll
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.Services\obj\Debug\netcoreapp3.0\AspNetShop.Services.pdb

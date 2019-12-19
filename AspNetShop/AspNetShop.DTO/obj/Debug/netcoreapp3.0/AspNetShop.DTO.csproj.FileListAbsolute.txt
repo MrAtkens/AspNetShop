@@ -1,0 +1,8 @@
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.DTO\bin\Debug\netcoreapp3.0\AspNetShop.DTO.deps.json
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.DTO\bin\Debug\netcoreapp3.0\AspNetShop.DTO.dll
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.DTO\bin\Debug\netcoreapp3.0\AspNetShop.DTO.pdb
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.DTO\obj\Debug\netcoreapp3.0\AspNetShop.DTO.csprojAssemblyReference.cache
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.DTO\obj\Debug\netcoreapp3.0\AspNetShop.DTO.AssemblyInfoInputs.cache
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.DTO\obj\Debug\netcoreapp3.0\AspNetShop.DTO.AssemblyInfo.cs
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.DTO\obj\Debug\netcoreapp3.0\AspNetShop.DTO.dll
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.DTO\obj\Debug\netcoreapp3.0\AspNetShop.DTO.pdb

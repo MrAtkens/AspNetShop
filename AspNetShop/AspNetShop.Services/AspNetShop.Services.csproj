@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FirebaseAdmin" Version="1.9.1" />
+    <PackageReference Include="PayPal" Version="2.0.0-rc2" />
+    <PackageReference Include="Twilio" Version="5.37.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AspNetShop.DataAccess\AspNetShop.DataAccess.csproj" />
+    <ProjectReference Include="..\AspNetShop.Domain\AspNetShop.Domain.csproj" />
+    <ProjectReference Include="..\AspNetShop.DTO\AspNetShop.DTO.csproj" />
+    <ProjectReference Include="..\AspNetShop.Options\AspNetShop.Options.csproj" />
+    <ProjectReference Include="..\AspNetShop.DataAccess\AspNetShop.DataAccess.csproj" />
+    <ProjectReference Include="..\AspNetShop.Domain\AspNetShop.Domain.csproj" />
+    <ProjectReference Include="..\AspNetShop.DTO\AspNetShop.DTO.csproj" />
+    <ProjectReference Include="..\AspNetShop.Options\AspNetShop.Options.csproj" />
+  </ItemGroup>
+
+</Project>

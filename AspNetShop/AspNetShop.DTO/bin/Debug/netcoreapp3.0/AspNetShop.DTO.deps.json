@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "AspNetShop.DTO/1.0.0": {
+        "runtime": {
+          "AspNetShop.DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AspNetShop.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,8 @@
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.Options\bin\Debug\netcoreapp3.0\AspNetShop.Options.deps.json
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.Options\bin\Debug\netcoreapp3.0\AspNetShop.Options.dll
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.Options\bin\Debug\netcoreapp3.0\AspNetShop.Options.pdb
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.Options\obj\Debug\netcoreapp3.0\AspNetShop.Options.csprojAssemblyReference.cache
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.Options\obj\Debug\netcoreapp3.0\AspNetShop.Options.AssemblyInfoInputs.cache
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.Options\obj\Debug\netcoreapp3.0\AspNetShop.Options.AssemblyInfo.cs
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.Options\obj\Debug\netcoreapp3.0\AspNetShop.Options.dll
+C:\Users\77077\source\repos\AspNetShop\AspNetShop.Options\obj\Debug\netcoreapp3.0\AspNetShop.Options.pdb
